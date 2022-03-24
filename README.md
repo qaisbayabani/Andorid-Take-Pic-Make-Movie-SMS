@@ -16,3 +16,6 @@ Task 3- in SMSREceiver.java change the login name and password of your email to 
 Task 4- All the files contain no link to any xml file for layouts so we just only have to copy .java files to a project and we are good to go.
 
 Task 5 - Clickable/vertically scrollable Phone numbers canvas that can open chat box and a Horozontally and Vertically Scrorrlable canvas to show the text of sms recived and sent.
+
+
+Put .jar in libs folder
